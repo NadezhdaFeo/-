@@ -1,0 +1,15 @@
+.heading {
+    color: rgb(0, 0, 0);
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+nav {
+    background-color: rgb(198, 198, 198);
+    /* цвет фона */
+    border: 1px solid darkblue;
+    /* обводка в 1px */
+}
