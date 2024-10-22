@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Pacifico-Regular";
+    src: url(../Pacifico/Pacifico-Regular.ttf) format('truetype');
+    font-style: normal;
+    font-weight: 100;
+}
+
+
+.paragraph a {
+    font-family: "Pacifico-Regular";
+}

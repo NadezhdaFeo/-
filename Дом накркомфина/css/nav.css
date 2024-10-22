@@ -1,0 +1,20 @@
+nav {
+    background-color: rgb(198, 198, 198);
+    /* цвет фона */
+    border: 1px solid darkblue;
+    /* обводка в 1px */
+    width: 300px;
+    position: fixed;
+    top: 45px;
+    left: 10px;
+    height: 90vh;
+    overflow-y: scroll;
+    padding-bottom: 10px;
+    opacity: 0.1;
+    transition: all 0.5s ease;
+}
+
+nav:hover {
+    opacity: 1;
+    transition: all 0.1s ease;
+}

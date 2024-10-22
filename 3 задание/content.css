@@ -1,0 +1,99 @@
+.container {
+    width: 80%;
+    height: 200px;
+    background: linen;
+    border-radius: 5 px;
+    display: flex;
+    /* горизонтальное позиционирование */
+    justify-content: center;
+    margin: 0 auto;
+    /* внешний отступ */
+    align-items: center;
+}
+
+.item {
+    width: 50px;
+    height: 50px;
+    background: blue;
+    border-radius: 5px;
+    padding: 1%;
+    margin: 1%;
+    text-align: center;
+    line-height: 50px;
+}
+
+.boxes {
+    width: 100%;
+    height: 100px;
+    background: linen;
+    border-radius: 5 px;
+    display: flex;
+    /* горизонтальное позиционирование */
+    justify-content: flex-end;
+    margin: 0 auto;
+    /* внешний отступ */
+    align-items: center;
+}
+
+.somediv {
+    width: 50px;
+    height: 50px;
+    background: yellow;
+    border-radius: 5px;
+    padding: 1%;
+    margin: 1%;
+    text-align: center;
+    color: red;
+    line-height: 50px;
+}
+
+.novoe {
+    width: 100%;
+    height: 100px;
+    background: linen;
+    border-radius: 5 px;
+    display: flex;
+    /* горизонтальное позиционирование */
+    justify-content: space-between;
+    margin: 0 auto;
+    /* внешний отступ */
+    align-items: center;
+}
+
+.novoe2 {
+    width: 100%;
+    height: 100px;
+    background: linen;
+    border-radius: 5 px;
+    display: flex;
+    /* горизонтальное позиционирование */
+    justify-content: space-around;
+    margin: 0 auto;
+    /* внешний отступ */
+    align-items: center;
+}
+
+.matreshka {
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    margin: 2% auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid pink;
+    background-color: aquamarine;
+}
+
+.esenia {
+    width: 300px;
+    height: 300px;
+    background: yellow;
+    border-radius: 50%;
+    padding: 1%;
+    margin: 1%;
+    text-align: center;
+    color: red;
+    line-height: 50px;
+    border: 4px solid red;
+}
