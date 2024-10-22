@@ -776,6 +776,7 @@ body {
 
 .link {
     text-decoration: none;
+    cursor: pointer;
 }
 
 .block2_scr11 p {
